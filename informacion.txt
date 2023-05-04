@@ -3,3 +3,4 @@ Santiago Jara Moya
 Cuarto Software
 Manejo y Configuración de Software
 Metodologías Agiles
+Computación Visual
