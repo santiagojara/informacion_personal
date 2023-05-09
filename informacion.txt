@@ -6,3 +6,4 @@ Metodologías Agiles
 Computación Visual
 Base de Datos
 No se debe modificar desde GitHub.
+Que no se debe realizar.
